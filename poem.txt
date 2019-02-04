@@ -1,4 +1,4 @@
-The Rainbow and the unicorn 
+The Rainbow and the unicorn and the pones
 purpel
 red
 blue
@@ -10,3 +10,4 @@ yellow
 pink
 This are the color of rainbow and 
 the unicorn
+pones
